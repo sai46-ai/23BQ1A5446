@@ -1,0 +1,17 @@
+[
+{"id":1,"title":"DBMS","priority":10,"read":false},
+{"id":2,"title":"OS","priority":9,"read":false},
+{"id":3,"title":"CN","priority":8,"read":false},
+{"id":4,"title":"Java","priority":7,"read":true},
+{"id":5,"title":"Python","priority":6,"read":false},
+{"id":6,"title":"AI","priority":10,"read":false},
+{"id":7,"title":"ML","priority":9,"read":false},
+{"id":8,"title":"DSA","priority":8,"read":false},
+{"id":9,"title":"SE","priority":7,"read":false},
+{"id":10,"title":"DAA","priority":6,"read":false},
+{"id":11,"title":"CD","priority":5,"read":false},
+{"id":12,"title":"FLAT","priority":4,"read":false},
+{"id":13,"title":"DM","priority":3,"read":false},
+{"id":14,"title":"Statistics","priority":2,"read":false},
+{"id":15,"title":"Cloud","priority":8,"read":false}
+]
