@@ -1,18 +1,19 @@
 {
-  "name":"23bq1a5446",
-  "version":"1.0.0",
-  "description":"Campus Notification System",
-  "main":"notification/app.js",
-  "scripts":{
-    "start":"node notification/app.js"
+  "name": "23bq1a5446",
+  "version": "1.0.0",
+  "description": "Campus Notification System",
+  "main": "notification/app.js",
+  "scripts": {
+    "start": "node notification/app.js"
   },
-  "repository":{
-    "type":"git",
-    "url":"git+https://github.com/sai46-ai/23BQ1A5446.git"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sai46-ai/23BQ1A5446.git"
   },
-  "license":"ISC",
-  "type":"commonjs",
-  "dependencies":{
-    "axios":"^1.17.0"
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.17.0",
+    "dotenv": "^16.4.7"
   }
 }
